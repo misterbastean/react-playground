@@ -23,3 +23,13 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.main__container {
+  margin: 1.5em auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 80%;
+  max-width: 400px;
+  font-family: 'Lato', sans-serif;
+}
