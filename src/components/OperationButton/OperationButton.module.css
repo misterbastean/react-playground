@@ -1,0 +1,13 @@
+.OperationButton__main {
+  width: 25%;
+  background-color: #ff0526;
+  color: #555;
+  border-bottom: 1px solid #555;
+  border-left: 1px solid #555;
+  border-right: 1px solid #555;
+  font-size: 2.4em;
+  text-align: center;
+  padding: 2%;
+  font-weight: 700;
+  color: white;
+}

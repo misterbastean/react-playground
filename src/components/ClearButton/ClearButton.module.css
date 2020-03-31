@@ -1,0 +1,9 @@
+.ClearButton__main {
+  width: 75%;
+  background-color: white;
+  color: #555;
+  border: 1px solid #ff0526;
+  font-size: 1.8em;
+  text-align: center;
+  padding: 3.5% 2% 2% 2%;
+}

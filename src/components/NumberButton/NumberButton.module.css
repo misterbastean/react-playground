@@ -1,0 +1,12 @@
+.NumberButton_main {
+  width: 25%;
+  background-color: white;
+  color: #555;
+  border-bottom: 1px solid #ff0526;
+  border-left: 1px solid #ff0526;
+  border-right: 1px solid #ff0526;
+  font-size: 2.4em;
+  text-align: center;
+  padding: 2%;
+  color: black;
+}
